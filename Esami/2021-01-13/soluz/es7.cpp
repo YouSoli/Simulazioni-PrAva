@@ -23,7 +23,7 @@ int esponenteKu(int exp, int x) {
 		cout << msg << endl;
 		value = 0;
 	}
-	return 0;
+	return value;
 }
 
 int main(int argc, char** argv) {
